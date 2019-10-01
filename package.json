@@ -1,0 +1,35 @@
+{
+  "name": "acme_login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "babel-loader": "^8.0.6",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
+    "redux": "^4.0.4",
+    "webpack-cli": "^3.3.9",
+    "webpack": "^4.41.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gweissend/acme_login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gweissend/acme_login/issues"
+  },
+  "homepage": "https://github.com/gweissend/acme_login#readme"
+}
